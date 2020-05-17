@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zoujinqi.GitHub.io</id>
     <title>Jinqi Zou</title>
-    <updated>2020-05-17T12:08:42.242Z</updated>
+    <updated>2020-05-17T12:10:56.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zoujinqi.GitHub.io"/>
     <link rel="self" href="https://zoujinqi.GitHub.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://zoujinqi.GitHub.io/images/avatar.png</logo>
     <icon>https://zoujinqi.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Jinqi Zou</rights>
