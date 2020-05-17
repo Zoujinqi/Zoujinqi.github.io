@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zoujinqi.GitHub.io</id>
     <title>Jinqi Zou</title>
-    <updated>2020-05-17T12:48:34.274Z</updated>
+    <updated>2020-05-17T13:03:01.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zoujinqi.GitHub.io"/>
     <link rel="self" href="https://zoujinqi.GitHub.io/atom.xml"/>
@@ -15,10 +15,7 @@
         <link href="https://zoujinqi.GitHub.io/post/hello-gridea/">
         </link>
         <updated>2020-05-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>...</p>
-<!-- more -->
+        <content type="html"><![CDATA[<!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
